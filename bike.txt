@@ -1,0 +1,31 @@
+The Ducati Panigale V4 is a sport bike with a 1,103 cc (67.3 cu in) desmodromic 90° V4 engine introduced by Ducati in 2018 as the successor to the V-twin engined 1299. A smaller engine displacement version complies with the Superbike category competition regulations which state "Over 750 cc up to 1000 cc" for three and four cylinder 4-stroke engines.[3]
+
+The name "Panigale" comes from the small manufacturing town of Borgo Panigale.[4] The Panigale V4 uses the new Desmosedici Stradale V4 engine, derived from the Desmosedici MotoGP racing engine.
+Development
+
+The Panigale V4 is Ducati's first large-production street bike with a V4 engine, Ducati having primarily used V-twins since the 1960s, except on prototypes and racing motorcycles.[5] They had sold a short run of 1,500 street-legal V4 Desmosedici RRs in 2007 and 2008[6][7] and made two prototypes of the Apollo V4 in 1964.
+
+The initial development of the Panigale V4 started with the 2015 MotoGP racing engine. Ducati said the Panigale V4 was designed to combine racing features, while also being an entertaining and rideable motorcycle with a durable engine.[7] This created the challenge of designing an engine that could keep the MotoGP engine's counter-rotating crankshaft, and large bore diameter, but have the 24,000 km (15,000 mi) service intervals expected on consumer motorcycles.[7] Originally, Ducati was initially keeping the MotoGP bike's chassis, but later changed to a completely new front frame they said has less weight and more stability.[7]
+Design
+
+Cycle World said in spite of being a V4, the new Panigale is only slightly wider than the V-twin 1299.[8] Ducati claimed weight is 4.5 kg (10 lb) heavier than the 1299, with foot pegs 10 mm (0.39 in) higher.[8] Unlike the prior 1199 and 1299 where the engine is the primary element of the frame, the engine is surrounded by a more conventional aluminum perimeter frame.[9]
+
+The Panigale V4's electronics include a wheelie control system derived from the 1299 Superleggera, along with traction and drift control.[10] The brakes have a new ABS designed for high speed cornering.[10][7] Ducati and Brembo designed 70 g (2.5 oz)-lighter brake calipers than the 1299's.[11] The bike's tires, the Diablo Super Corsa SP developed by Ducati and Pirelli, have a new rear compound.[10]
+Engine
+
+The Panigale V4's 1,103 cc (67.3 cu in) desmodromic 90° V4 engine, unlike the prior 1199 and 1299 where the engine is the primary element of the frame, is surrounded by a more conventional aluminum perimeter frame.[12] The engine is rotated further backwards than other Ducatis, so that the swingarm pivot is mated to the rear cylinders, rather than lower on the engine near the crankshaft.[9] Unlike most street bikes and previous Ducatis other than MotoGP racing machines, the Panigale V4's engine rotates in the opposite direction of the wheels, counteracting the gyroscopic effect and therefore decreasing the force necessary to change the bike's inclination.[9]
+Variants
+Panigale V4 S
+
+The Panigale V4 S is a more performance-oriented version of the base V4. It has an Öhlins suspension that the rider can electronically adjust, or set to the sport, race, or street modes typical of contemporary performance bikes. It also has a lightweight lithium battery, and forged aluminium wheels, reducing the bike's overall weight.[citation needed]
+Panigale V4 Speciale
+
+The Panigale V4 Speciale has the S model options, and adds adjustable footpads, an Alcantara-trimmed seat, a top triple clamp,[clarification needed] carbon mudguards, a data analyzer system, and race fuel cap. It also has a titanium exhaust and race kit that Ducati claims increases the power from a claimed 166.3 kW (223.0 hp; 226.1 PS).[1]
+Panigale V4 R
+Ducati Panigale V4 R
+
+The Panigale V4 R is a WSBK homologation special of the standard V4. Compared to the standard 1,103 cc (67.3 cu in) engine of the Panigale V4/V4 S, the V4 R uses a 998 cc (60.9 cu in) variant to comply with WSBK rules. This engine makes a claimed 162 kW (217 hp; 220 PS) at 15,250 rpm and 112 N⋅m (83 lbf⋅ft) of torque at 11,500 rpm with a dry weight of 172 kg and kerb weight of 193 kg, with the race kit optional package this engine makes a claimed 172 kW (231 hp; 234 PS) at 15,250 rpm and 112 N⋅m (83 lbf⋅ft) of torque at 11,500 rpm . This makes the V4 R the most powerful street-legal production bike available in the world, meaning that, with a dry weight of 165 kg, reaches a power-to-weight ratio of 1.42. The frame has been reworked and the swingarm pivot can be adjusted. The fairing has been widened by 38 mm (1.5 in) as part of the aerodynamic styling. According to the Ducati CEO Claudio Domenicali, the winglets applied to the V4 R fairing are almost identical to the GP16 MotoGP bike. The suspension uses fully adjustable titanium nitrided NPX front forks by Öhlins, and the rear a fully adjustable Öhlins TTX36 monoshock.[13][14]
+Panigale V4 Superleggera
+Ducati Panigale V4 Superleggera
+
+For 2020, Ducati introduced the Panigale V4 Superleggera. This is the third superleggera incarnation after the 1199 and 1299 superleggera models. As with previous Superleggeras, a run of only 500 were manufactured, with reduced weight being the design philosophy. The frame, swingarm and rims are all manufactured from carbon. It produces 224 hp, and has a dry weight of 159 kg (or 152 kg with the race kit).[15] 
